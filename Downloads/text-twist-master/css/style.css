@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.div-btn-start {
+    width: 150px;
+    margin: 0 auto;
+}
+
+.rack > button {
+    margin: 0 5px;
+}
+
+.guess {
+    display: none;
+    margin-top: 20px;
+}
+
+.div-guess-letters {
+    height: 29px;
+}
+
+.guess-result {
+    width: 300px;
+    margin: 5px auto;
+    padding: 10px;
+}
